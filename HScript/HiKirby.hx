@@ -1,5 +1,8 @@
 //Originally made to poke fun of Captain Kirby.
-//Mostly unedited code. The code above the first line of code however, was removed. Dumb notes. Any mentions of servers or time was because I was asking to see if I could be in a coder's server. I'm too scared to ask now.
+//Mostly unedited code. The code above the first line of code however, was removed.
+//Dumb notes. 
+//Any mentions of servers or time was because I was asking to see if I could be in a coder's server. However I removed all references to it.
+//I can't quite ask her now.
 
 import flixel.FlxG;
 import flixel.FlxState;
@@ -12,7 +15,7 @@ var curtains:FlxSprite;
 var bg:FlxSprite;
 var gf:FlxSprite;
 
-//now can i be in the server? (written before 8:59PM)
+
 function create(){
     bg = new FlxSprite(0, 0).loadGraphic(Paths.image('titlescreen/stageback'));
     bg.screenCenter();
@@ -63,7 +66,6 @@ super.create();
 //Filename originally called:
 //screwyoukirby.hx
 //and
-//screwyoukirbynevermind-i-miss-you.hx (context is that someone had to leave the internet and yadayadayada she's back)
-//The good ending.
 //
+//The good ending.
 //69th line. Tee hee.
